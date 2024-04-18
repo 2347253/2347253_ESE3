@@ -1,4 +1,8 @@
 streamlit
 plotly
-PIL
+pandas
+matplotlib
 nltk
+numpy
+Pillow
+scikit-learn
